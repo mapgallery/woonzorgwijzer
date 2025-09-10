@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>WoonZorgwijzer</title>
+    <link href="https://www.woonzorgwijzer.dev/feed.xml" rel="self" />
+    <link href="https://www.woonzorgwijzer.dev" />
+    <updated>2025-09-10T22:02:24+02:00</updated>
+    <author>
+        <name>MapGallery B.V.</name>
+    </author>
+    <id>https://www.woonzorgwijzer.dev</id>
+
+    <entry>
+        <title>WoonZorgwijzer 5.0</title>
+        <author>
+            <name>MapGallery B.V.</name>
+        </author>
+        <link href="https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html"/>
+        <id>https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html</id>
+
+        <updated>2025-09-10T22:02:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ja hij is er!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ja hij is er!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
