@@ -3,7 +3,7 @@
     <title>WoonZorgwijzer</title>
     <link href="https://www.woonzorgwijzer.dev/feed.xml" rel="self" />
     <link href="https://www.woonzorgwijzer.dev" />
-    <updated>2025-09-10T22:02:24+02:00</updated>
+    <updated>2025-09-10T22:50:15+02:00</updated>
     <author>
         <name>MapGallery B.V.</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2025-09-10T22:02:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    Ja hij is er!
+                    Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ja hij is er!</p>
+                <p>Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...</p>
             ]]>
         </content>
     </entry>
