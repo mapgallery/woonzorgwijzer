@@ -23,6 +23,20 @@
             ],
             "date_published": "2025-09-10T22:02:24+02:00",
             "date_modified": "2025-09-10T22:50:15+02:00"
+        },
+        {
+            "id": "https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html",
+            "url": "https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html",
+            "title": "WoonZorgwijzer 4.0",
+            "summary": "Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.",
+            "content_html": "<p>Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.</p>",
+            "author": {
+                "name": "MapGallery B.V."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-21T08:48:00+01:00",
+            "date_modified": "2025-09-11T08:53:39+02:00"
         }
     ]
 }

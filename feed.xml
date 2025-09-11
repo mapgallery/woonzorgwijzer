@@ -3,7 +3,7 @@
     <title>WoonZorgwijzer</title>
     <link href="https://www.woonzorgwijzer.dev/feed.xml" rel="self" />
     <link href="https://www.woonzorgwijzer.dev" />
-    <updated>2025-09-10T22:50:15+02:00</updated>
+    <updated>2025-09-11T08:53:39+02:00</updated>
     <author>
         <name>MapGallery B.V.</name>
     </author>
@@ -26,6 +26,26 @@
         <content type="html">
             <![CDATA[
                 <p>Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WoonZorgwijzer 4.0</title>
+        <author>
+            <name>MapGallery B.V.</name>
+        </author>
+        <link href="https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html"/>
+        <id>https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html</id>
+
+        <updated>2024-03-21T08:48:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.</p>
             ]]>
         </content>
     </entry>
