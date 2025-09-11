@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "WoonZorgwijzer",
     "description": "",
-    "home_page_url": "https://www.woonzorgwijzer.dev",
-    "feed_url": "https://www.woonzorgwijzer.dev/feed.json",
+    "home_page_url": "https://woonzorgwijzer.dev",
+    "feed_url": "https://woonzorgwijzer.dev/feed.json",
     "user_comment": "",
-    "icon": "https://www.woonzorgwijzer.dev/media/website/wzw_logo.svg",
+    "icon": "https://woonzorgwijzer.dev/media/website/wzw_logo.svg",
     "author": {
         "name": "MapGallery B.V."
     },
     "items": [
         {
-            "id": "https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html",
-            "url": "https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html",
+            "id": "https://woonzorgwijzer.dev/woonzorgwijzer-50.html",
+            "url": "https://woonzorgwijzer.dev/woonzorgwijzer-50.html",
             "title": "WoonZorgwijzer 5.0",
             "summary": "Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...",
             "content_html": "<p>Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...</p>",
@@ -25,8 +25,8 @@
             "date_modified": "2025-09-10T22:50:15+02:00"
         },
         {
-            "id": "https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html",
-            "url": "https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html",
+            "id": "https://woonzorgwijzer.dev/woonzorgwijzer-40.html",
+            "url": "https://woonzorgwijzer.dev/woonzorgwijzer-40.html",
             "title": "WoonZorgwijzer 4.0",
             "summary": "Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.",
             "content_html": "<p>Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.</p>",

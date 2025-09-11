@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>WoonZorgwijzer</title>
-    <link href="https://www.woonzorgwijzer.dev/feed.xml" rel="self" />
-    <link href="https://www.woonzorgwijzer.dev" />
+    <link href="https://woonzorgwijzer.dev/feed.xml" rel="self" />
+    <link href="https://woonzorgwijzer.dev" />
     <updated>2025-09-11T08:53:39+02:00</updated>
     <author>
         <name>MapGallery B.V.</name>
     </author>
-    <id>https://www.woonzorgwijzer.dev</id>
+    <id>https://woonzorgwijzer.dev</id>
 
     <entry>
         <title>WoonZorgwijzer 5.0</title>
         <author>
             <name>MapGallery B.V.</name>
         </author>
-        <link href="https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html"/>
-        <id>https://www.woonzorgwijzer.dev/woonzorgwijzer-50.html</id>
+        <link href="https://woonzorgwijzer.dev/woonzorgwijzer-50.html"/>
+        <id>https://woonzorgwijzer.dev/woonzorgwijzer-50.html</id>
 
         <updated>2025-09-10T22:02:24+02:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>MapGallery B.V.</name>
         </author>
-        <link href="https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html"/>
-        <id>https://www.woonzorgwijzer.dev/woonzorgwijzer-40.html</id>
+        <link href="https://woonzorgwijzer.dev/woonzorgwijzer-40.html"/>
+        <id>https://woonzorgwijzer.dev/woonzorgwijzer-40.html</id>
 
         <updated>2024-03-21T08:48:00+01:00</updated>
             <summary>
