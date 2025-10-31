@@ -3,7 +3,7 @@
     <title>WoonZorgwijzer</title>
     <link href="https://woonzorgwijzer.dev/feed.xml" rel="self" />
     <link href="https://woonzorgwijzer.dev" />
-    <updated>2025-09-11T08:53:39+02:00</updated>
+    <updated>2025-10-31T09:47:33+01:00</updated>
     <author>
         <name>MapGallery B.V.</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2025-09-10T22:02:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...
+                    Welkom! De WoonZorgwijzer is dé digitale kaart die inzicht geeft in wonen, welzijn en zorg. In één oogopslag ziet u waar bepaalde doelgroepen wonen, welke ondersteuning zij nodig hebben – van mobiliteit tot sociale redzaamheid – en welke locaties kansen bieden voor nieuwe initiatieven. Praktisch,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ja hij is er! Verhaaltje over de nieuwe WoonZorgwijzer...</p>
+                <p><strong>Welkom!</strong></p>
+<p>De WoonZorgwijzer is dé digitale kaart die inzicht geeft in wonen, welzijn en zorg. In één oogopslag ziet u waar bepaalde doelgroepen wonen, welke ondersteuning zij nodig hebben – van mobiliteit tot sociale redzaamheid – en welke locaties kansen bieden voor nieuwe initiatieven. Praktisch, overzichtelijk en direct toepasbaar.</p>
             ]]>
         </content>
     </entry>
