@@ -18,7 +18,7 @@
         <id>https://woonzorgwijzer.dev/woonzorgwijzer-50.html</id>
 
         <updated>2025-09-10T22:02:24+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Welkom! De WoonZorgwijzer is dé digitale kaart die inzicht geeft in wonen, welzijn en zorg. In één oogopslag ziet u waar bepaalde doelgroepen wonen, welke ondersteuning zij nodig hebben – van mobiliteit tot sociale redzaamheid – en welke locaties kansen bieden voor nieuwe initiatieven. Praktisch,&hellip;
                 ]]>
@@ -40,7 +40,7 @@
         <id>https://woonzorgwijzer.dev/woonzorgwijzer-40.html</id>
 
         <updated>2024-03-21T08:48:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Op 21 maart is de 4.0 versie van de provinciale WoonZorgwijzer gelanceerd. In deze nieuwe versie is actuele data toegevoegd en zijn onder de motorkap diverse verbeteringen doorgevoerd.
                 ]]>
